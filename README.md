@@ -22,7 +22,7 @@ You can look at [various](https://www.freecodecamp.org/news/how-to-build-a-hacke
 
 ## List of Tasks
 
-- List TOP Stories, BEST stories and LATEST stories in 3 different tabs/screens.
+- List TOP Stories, BEST stories and LATEST stories in 3 different tabs/screens. [[API](https://github.com/HackerNews/API#new-top-and-best-stories)]
 - Make it look pretty. Try to make it look like Hacker News.
 - Details about a single post. i.e Title, Comments Count, Timestamps, Comments, Nested Comments, favourite etc.
 - Comments on a post
