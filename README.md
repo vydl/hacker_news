@@ -5,7 +5,7 @@ If you apply, we will ask you to do this project so we can asses your ability to
 
 | Requirement | Tech Choice                                           | Description                                                  |
 | ----------- | ----------------------------------------------------- | ------------------------------------------------------------ |
-| Language    | TypeScript                                            | This will help you to catch bugs early. It also helps a lot with Codegen for GraphQL APIs. |
+| Language    | TypeScript                                            | This will help you to catch bugs early. |
 | Navigation  | React Navigation                                      | We find it quite good. We belive it's industry standard.     |
 | REST API    | React Query                                           | This is what we use.                                         |
 | Styling     | Styled Components, TailwindCSS                        | You can use any one you like or both of them 🙂               |
