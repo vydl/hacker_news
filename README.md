@@ -28,7 +28,7 @@ You can look at [various](https://www.freecodecamp.org/news/how-to-build-a-hacke
 - Comments on a post
   - Nested comments on a post will get you **bonus** points.
 
-- Create Search Functionality
+- Create Search Functionality. It should be frontend(react-native side) search only. No API calls required on search.
 - Write tests. It doesn't have to be comprehensive.
 
 # How to submit your solution:
